@@ -1,0 +1,11 @@
+_FILEVERSION=0.0.0.1
+_PRODUCTVERSION=0.0.0.1
+Comments=FireFoxÇ…êÖÇÇ©ÇØÇÈÇ∆CoolNekoÇ…Ç»ÇËÇ‹Ç∑(ƒﬁ‘Ø)
+CompanyName=The CoolNeko Project
+FileDescription=CoolNeko is Open Source Browser
+FileVersion=0.0.0.1
+InternalName=CoolNeko
+LegalCopyright=The CoolNeko Project
+OriginalFilename=CoolNeko.exe
+ProductName=CoolNeko
+ProductVersion=0.0.0.1
